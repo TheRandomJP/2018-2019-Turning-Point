@@ -152,7 +152,7 @@ task main()
 		{
 			halt();
 		}
-		if (vexRT[Btn5U] == 1)
+		if (vexRT[Btn5U] == 0)
 		{
 			halt();
 		}
